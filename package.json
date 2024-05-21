@@ -1,0 +1,15 @@
+{
+  "name": "nodeprinciplepratice",
+  "version": "1.0.0",
+  "description": "practicing get,post,env,parameters,body,inmemory data creating,accessing it,promisified writefile,routes,regex,res.send,res.json,res.redirect...practice practice practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eswar",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
